@@ -14,8 +14,8 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
         } else {
             echo "ไม่สามารถลบข้อมูลได้";
         }
-    } else {
-        echo "id is null";
+    //} else {
+        //echo "id is null";
     }
 }
 
